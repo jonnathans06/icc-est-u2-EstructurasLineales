@@ -1,8 +1,8 @@
-import ejercicio_01_sing.singValidator;
+import ejercicio_01_sing.SingValidator;
 
 public class AppPila {
     public static void main(String[] args) {
-        singValidator validator = new singValidator();
+        SingValidator validator = new SingValidator();
         validator.isValid("2");
 
     }

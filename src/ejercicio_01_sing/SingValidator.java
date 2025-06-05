@@ -1,6 +1,6 @@
 package ejercicio_01_sing;
 
-public class singValidator {
+public class SingValidator {
 
     public boolean isValid(String input) {
 
