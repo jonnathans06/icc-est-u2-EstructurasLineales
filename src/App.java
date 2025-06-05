@@ -5,7 +5,7 @@ import models.Persona;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        Stacks stack = new Stacks();
+        /*Stacks stack = new Stacks();
         stack.push(10);
         stack.push(-1);
         stack.push(5);
@@ -37,5 +37,6 @@ public class App {
         System.out.println("Atiende a la persona ->" + colaPersonas.remove());
         System.out.println(colaPersonas.size());;
         System.out.println("tam = "+ colaPersonas.size());
+         */
     }
 }
